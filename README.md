@@ -24,8 +24,8 @@ Contains the .h5 file for the NLP model used to generate the "host gender" featu
 
 You can find the notebooks for each approach in the /notebooks folder. Here you can find:
 - Linear Regression : notebooks/Tanguy/Linear Regression.ipynb
-- Decision Tree Regression : notebooks/paul/
-- Bayesian Ridge Regression : notebooks/paul/ 
+- Decision Tree Regression : notebooks/Paul/Decision_Tree_FINAL.ipynb
+- Bayesian Ridge Regression : notebooks/Paul/Bayesian_Ridge_Regression_FINAL.ipynb
 - KNN Regression: notebooks/seongWoo/KNN_final.ipynb
 - Random Forest Regression : notebooks/leila/Random_forest-final.ipynb
 - SVR : notebooks/leila/SVR-final.ipynb
